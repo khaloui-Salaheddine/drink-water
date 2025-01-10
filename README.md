@@ -12,7 +12,7 @@ The project goal:
 - when you click on one small cup, you see the % of water in a big cup as well as the amount of water left
 - set up in HTML, style it with CSS and add the functionality with JavaScript
 
-View Demo and have fun here <a href="https://js-drink-water.netlify.app/" target="_blank">Drink Water</a> 
+View Demo and have fun here <a href="https://khaloui-salaheddine.github.io/drink-water/" target="_blank">Drink Water</a> 
 
 <sub><sup>made from Brad Traversy course "50 Projects In 50 Days"</sup></sub>
 
