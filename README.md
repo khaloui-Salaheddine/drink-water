@@ -4,7 +4,7 @@
 
 ## 🦉 Main information
 
-Cool app to track the amount of water you have drank built with Html, CSS and Vanilla JavaScript.
+Cool app to track the amount of water you have drank built with Html, CSS and  JavaScript.
 
 The project goal:
 
